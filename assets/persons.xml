@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<persons>
+
+    <person id="1" >
+        <name>lnmcc</name>
+        <age>20</age>
+    </person>
+
+    <person id="2" >
+        <name>wangsijie</name>
+        <age>30</age>
+    </person>
+    
+    <person id="3" >
+        <name>Jack</name>
+        <age>90</age>
+    </person>
+    
+</persons>
